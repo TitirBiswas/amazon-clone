@@ -4,6 +4,9 @@ A fully responsive application immitating amazon e-commerce web browser.
 
 ## Screenshot-Demo
 
+![amazon-clone](https://user-images.githubusercontent.com/80755644/125207029-ce179580-e2a7-11eb-9850-b26950f0c725.gif)
+
+
 ## Technologies
 
 Frontend: React js
