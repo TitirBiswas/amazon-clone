@@ -9,9 +9,9 @@ A fully responsive application immitating amazon e-commerce web browser.
 
 ## Technologies
 
-Frontend: React js
-Backend: Node js , Express js
-others: firebase and axios
+### Frontend: React js
+### Backend: Node js , Express js
+#### others: firebase and axios
 
 ## Getting Started with Create React App
 
